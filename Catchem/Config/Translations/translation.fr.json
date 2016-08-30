@@ -430,7 +430,7 @@
     },
     {
       "Key": "googleTwoFactorAuthExplanation",
-      "Value": "Ouverture de la page Google Mots de passe d'application. Merci de générer un nouveau mot de passe spécifique à l'application. (use Other as Device)"
+      "Value": "Ouverture de la page Google Mots de passe d'application. Merci de générer un nouveau mot de passe spécifique à l'application. (utilisé Other dans Device)"
     },
     {
       "Key": "googleError",
